@@ -28,9 +28,6 @@
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benita024&theme=highcontrast&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benita024&theme=highcontrast&hide_border=true&layout=compact" height="150" />
-</div>
+
 <br>
 ⭐ <b>Currently building and learning — more projects coming soon!</b>
